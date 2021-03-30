@@ -12,7 +12,7 @@ namespace CryptoWords
     {
         private static readonly string SaltString = "5795500A-DEDC-4782-9DD4-498AC0D01D79";
 
-        static void Main(string[] args)
+        static void Main()
         {
             try
             {
